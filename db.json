@@ -1,56 +1,58 @@
-[
-  {
-    "id": 1,
-    "titulo": "Aprender fundamentos de Flutter",
-    "descr": "Estudiar widgets básicos y estructura de una app",
-    "completada": true
-  },
-  {
-    "id": 2,
-    "titulo": "Configurar entorno de desarrollo",
-    "descr": "Instalar Flutter SDK y Android Studio",
-    "completada": true
-  },
-  {
-    "id": 3,
-    "titulo": "Crear primera app",
-    "descr": "Generar proyecto inicial y correrlo en emulador",
-    "completada": true
-  },
-  {
-    "id": 4,
-    "titulo": "Consumir API",
-    "descr": "Realizar petición GET a un endpoint",
-    "completada": false
-  },
-  {
-    "id": 5,
-    "titulo": "Implementar POST",
-    "descr": "Enviar datos a la API para crear un recurso",
-    "completada": false
-  },
-  {
-    "id": 6,
-    "titulo": "Manejo de estado",
-    "descr": "Integrar Provider para gestión de estado",
-    "completada": false
-  },
-  {
-    "id": 7,
-    "titulo": "Diseño de UI",
-    "descr": "Crear interfaz atractiva con Material Design",
-    "completada": false
-  },
-  {
-    "id": 8,
-    "titulo": "Validación de formularios",
-    "descr": "Validar inputs del usuario antes de enviar",
-    "completada": false
-  },
-  {
-    "id": 9,
-    "titulo": "Navegación entre pantallas",
-    "descr": "Implementar rutas con go_router",
-    "completada": false
-  }
-]
+{
+  "tareas": [
+    {
+      "id": 1,
+      "titulo": "Aprender fundamentos de Flutter",
+      "descr": "Estudiar widgets básicos y estructura de una app",
+      "completada": true
+    },
+    {
+      "id": 2,
+      "titulo": "Configurar entorno de desarrollo",
+      "descr": "Instalar Flutter SDK y Android Studio",
+      "completada": true
+    },
+    {
+      "id": 3,
+      "titulo": "Crear primera app",
+      "descr": "Generar proyecto inicial y correrlo en emulador",
+      "completada": true
+    },
+    {
+      "id": 4,
+      "titulo": "Consumir API",
+      "descr": "Realizar petición GET a un endpoint",
+      "completada": false
+    },
+    {
+      "id": 5,
+      "titulo": "Implementar POST",
+      "descr": "Enviar datos a la API para crear un recurso",
+      "completada": false
+    },
+    {
+      "id": 6,
+      "titulo": "Manejo de estado",
+      "descr": "Integrar Provider para gestión de estado",
+      "completada": false
+    },
+    {
+      "id": 7,
+      "titulo": "Diseño de UI",
+      "descr": "Crear interfaz atractiva con Material Design",
+      "completada": false
+    },
+    {
+      "id": 8,
+      "titulo": "Validación de formularios",
+      "descr": "Validar inputs del usuario antes de enviar",
+      "completada": false
+    },
+    {
+      "id": 9,
+      "titulo": "Navegación entre pantallas",
+      "descr": "Implementar rutas con go_router",
+      "completada": false
+    }
+  ]
+}
